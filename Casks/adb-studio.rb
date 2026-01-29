@@ -1,6 +1,6 @@
 cask "adb-studio" do
-  version "0.0.4"
-  sha256 "5caac042f7a314281fa0d59ee3d00867e59b4adbf8b5740b29f12866dc3cf914"
+  version "0.0.5"
+  sha256 "badc82144c99204a59e3cd788b42b3914e11a2a6afdc77acd2ab3ad92ace69dd"
 
   url "https://github.com/Zaphkiel-Ivanovna/adb-studio/releases/download/v#{version}/ADB-Studio-#{version}.zip",
       verified: "github.com/Zaphkiel-Ivanovna/adb-studio/"
